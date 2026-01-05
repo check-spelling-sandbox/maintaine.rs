@@ -42,7 +42,7 @@ Now it is nearing almost 1M downloads per month on NPM;
 
 Publish your Java JAR file to Maven Central with GitHub Actions. This project came into existence when the other Maven publish action which I was using, was not being maintained for almost a year.
 
-I took the opportunity to completely rewrite the project in Typescript from the original Common JS. Now it is being actively maintained by me.
+I took the opportunity to completely rewrite the project in TypeScript from the original Common JS. Now it is being actively maintained by me.
 
 ## Main challenges as a maintainer?
 
