@@ -22,7 +22,7 @@ Those projects of mine were Open Source from day one as I wanted to contribute t
 
 We shipped new curl releases early and often. Added features, fixed bugs, iterated. I spent much of my spare time on this for years to come.
 
-Later, through the decades, I would co-start more Open Source projects (like Rockbox) and I would “take over” and push development forward in others (libssh2, c-ares) but my original main guiding principles remained. Respect contributors, remain inclusive, lower contribution friction as much as possible, give credits. Of course in addition to writing excellent code that is documented clearly so that people get a better chance to use the products and help make them better.
+Later, through the decades, I would co-start more Open Source projects (like Rockbox) and I would “take over” and push development forward in others (libssh2, c-ares) but my original main guiding principles remained. Respect contributors, remain inclusive, lower contribution friction as much as possible, give credits. Of course, in addition to writing excellent code that is documented clearly so that people get a better chance to use the products and help make them better.
 
 ## To Mars
 
