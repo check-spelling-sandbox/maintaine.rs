@@ -104,7 +104,7 @@ I wanted to allow people to walk away and not get notifications any more while a
 
 Once you start to dread getting issues or contributions on your Open Source project: it's probably time to leave.
 
-If it's not time to leave: think about the parts of it that fill you with dread and consider how you can adjust your documentation, policies, templates, code or even just personal boundaries to not have to do these any more.
+If it's not time to leave: think about the parts of it that fill you with dread and consider how you can adjust your documentation, policies, templates, code or even just personal boundaries to not have to do these anymore.
 
 Most of all though: good luck.
 It's not always easy.
