@@ -147,7 +147,7 @@ Let’s evaluate this feature by applying the project’s foundational philosoph
 
 “Every time you give a user an option, you are asking them to make a decision. When a user doesn’t care or understand the option this ultimately leads to frustration…Ultimately these choices end up being technical ones, choices that the average end user has no interest in. It’s our duty as developers to make smart design decisions and avoid putting the weight of technical choices on our end users.”
 
-The Sitemap feature introduced no new options or user controls. The only way to alter the behavior of the feature is to change a pre-existing setting in the dashboard. This setting presents the site owner with one decision: should this site be visible to search engines? The code will take appropriate action to enable or disable Sitemaps behind the scenes based on this decision.
+The Sitemap feature introduced no new options or user controls. The only way to alter the behavior of the feature is to change a preexisting setting in the dashboard. This setting presents the site owner with one decision: should this site be visible to search engines? The code will take appropriate action to enable or disable Sitemaps behind the scenes based on this decision.
 
 ### Clean, lean, and mean/Striving for simplicity
 
