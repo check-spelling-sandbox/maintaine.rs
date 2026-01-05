@@ -62,7 +62,7 @@ As `oapi-codegen` is built on top of [OpenAPI](https://www.openapis.org/), there
 
 To make matters a little harder, we often need to be led by users with examples of functionality they're using, before we can add support into the project for what they're doing.
 
-When we end up trying to fix these sorts of issues, we also want to support this in a backwards-compatible way, making sure generated code only changes if necessary, otherwise making it an opt-in feature. This adds complexity with more internal feature flags, on top of complex specifications that may be in use.
+When we end up trying to fix these sorts of issues, we also want to support this in a backwards-compatible way, making sure generated code only changes if necessary; otherwise, making it an opt-in feature. This adds complexity with more internal feature flags, on top of complex specifications that may be in use.
 
 As a project, we're trying hard to build sustainability in our documentation and our test suite - I recently spent a lot of time rebuilding our documentation, which now means that previously raised contributions (some as old as ~6 years) need to have this documentation retrofitted to them (usually by us, the maintainers) before they can be accepted.
 
