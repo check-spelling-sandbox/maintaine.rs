@@ -145,7 +145,7 @@ No one gets left in the dark be it an intern or juniors; not under my wings.
 
 Security design from start (as early as the first working prototype). In
 Layman terms, security is a "metal alloy" to be forged from the get-go; not a
-"Lego" brick composition to be duct taped with.
+"LEGO" brick composition to be duct taped with.
 
 OWASP [https://cheatsheetseries.owasp.org/](https://cheatsheetseries.owasp.org/) and
 IETF [https://datatracker.ietf.org/](https://datatracker.ietf.org/) are my primary go-to for network security.
