@@ -24,7 +24,7 @@ The effect that open source can have to the world but at same time to your caree
 
 Currently, I am serving my second term on the council of the [Italian Linux Society](https://www.ils.org/) and am part of the maintainer group for the [Amber language](https://amber-lang.com/).
 
-Additionally, I have written a free and Open Source book titled "Contribute to Open Source the Right Way," available [here](https://daniele.tech/2022/09/contribute-to-open-source-the-right-way-3rd-edition/), and I am working on the fourth edition.
+Additionally, I have written a free and Open Source book titled "[Contribute to Open Source the Right Way](https://daniele.tech/2022/09/contribute-to-open-source-the-right-way-3rd-edition/)", and I am working on the fourth edition.
 
 ## **How do you grow your community?**
 
