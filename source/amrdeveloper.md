@@ -10,7 +10,7 @@ Currently, I am the creator and maintainer of [GitQL](https://github.com/AmrDeve
 
 ## **How did you get involved with Open Source?**
 
-My journey with Open Source started back in 2018 when I was learning computer science subjects on my own, and on each course project, I used to just take it one step forward to implement more features, document features and share them on Github.
+My journey with Open Source started back in 2018 when I was learning computer science subjects on my own, and on each course project, I used to just take it one step forward to implement more features, document features and share them on GitHub.
 
 After a while, I was searching for an Android UI library to create a reaction button similar to social media, for example, like LinkedIn and Facebook, to provide emojis and dialog once clicking on the like button, and then I found that many Android Developers have the same use case so I decided to design and implement my first library to cover this use case but with a lot of customization options and released as an Open Source library, I was surprised by the good feedback, contributors, people send messages about how they used it in their project.
 

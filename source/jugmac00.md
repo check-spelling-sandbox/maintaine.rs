@@ -126,7 +126,7 @@ Even if you are a happy user, and you do not need a bug fix or a new feature,
 reach out to the maintainer of your favorite project and say "Thank you!". This
 will conjure a smile on the maintainer's face - I know firsthand.
 
-Please never forget, that even with all the anonymity the web offers, at the
+Please never forget, that even with all the anonymity that the web offers, at the
 very end, a maintainer is still a human. Be kind. Be friendly. Be part of the
 Open Source movement.
 

@@ -37,7 +37,7 @@ Beyond including, recognise those contributions. If you have a release, put thos
 
 **Be open about roadmaps and releases**
 
-If you have contributors pretty soon, you need to be open about plans you have for your project, goals and releases. I believe you should have at least a project roadmap table somewhere—ideally, open project boards and a roadmap. I like the way Github does theirs.
+If you have contributors pretty soon, you need to be open about plans you have for your project, goals and releases. I believe you should have at least a project roadmap table somewhere—ideally, open project boards and a roadmap. I like the way GitHub does theirs.
 
 Opening your project up can be incredibly rewarding, but do it respectfully and then who knows what incredible contributors will join you on the adventure.
 

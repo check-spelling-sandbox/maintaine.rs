@@ -20,7 +20,7 @@ In 2019, I joined the Swoole Open Source project and began working on a document
 
 This involved not only redesigning the front-end UI but also correcting outdated content and adding more sample code.
 
-During the process, I encountered some issues: the new documentation was built using docsify, which at that time had some long standing search-related problems, such as:
+During the process, I encountered some issues: the new documentation was built using docsify, which at that time had some long-standing search-related problems, such as:
 
 - Unable to search content within tables
 - Incorrect scroll position when clicking search results

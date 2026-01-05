@@ -21,7 +21,7 @@ Most of my Open Source work has been in the Homebrew ecosystem for the last 10 y
 I was the third maintainer involved in Homebrew, after Max (the creator) and Adam (who I joined).
 Since Max stepped down, I've been in an informal leadership role and as the elected "Project Leader" since 2019.
 
-I've spent a lot of work on Homebrew not not just the engineering aspects but also trying to make the project more sustainable.
+I've spent a lot of work on Homebrew not just the engineering aspects but also trying to make the project more sustainable.
 This has included:
 
 - working on a "contributor funnel" from user to contributor to maintainer
@@ -104,7 +104,7 @@ I wanted to allow people to walk away and not get notifications any more while a
 
 Once you start to dread getting issues or contributions on your Open Source project: it's probably time to leave.
 
-If it's not time to leave: think about the parts of it that fill you with dread and consider how you can adjust your documentation, policies, templates, code or even just personal boundaries to not have to do these any more.
+If it's not time to leave: think about the parts of it that fill you with dread and consider how you can adjust your documentation, policies, templates, code or even just personal boundaries to not have to do these anymore.
 
 Most of all though: good luck.
 It's not always easy.

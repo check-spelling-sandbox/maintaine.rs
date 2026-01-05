@@ -147,7 +147,7 @@ Let’s evaluate this feature by applying the project’s foundational philosoph
 
 “Every time you give a user an option, you are asking them to make a decision. When a user doesn’t care or understand the option this ultimately leads to frustration…Ultimately these choices end up being technical ones, choices that the average end user has no interest in. It’s our duty as developers to make smart design decisions and avoid putting the weight of technical choices on our end users.”
 
-The Sitemap feature introduced no new options or user controls. The only way to alter the behavior of the feature is to change a pre-existing setting in the dashboard. This setting presents the site owner with one decision: should this site be visible to search engines? The code will take appropriate action to enable or disable Sitemaps behind the scenes based on this decision.
+The Sitemap feature introduced no new options or user controls. The only way to alter the behavior of the feature is to change a preexisting setting in the dashboard. This setting presents the site owner with one decision: should this site be visible to search engines? The code will take appropriate action to enable or disable Sitemaps behind the scenes based on this decision.
 
 ### Clean, lean, and mean/Striving for simplicity
 
@@ -227,7 +227,7 @@ Backwards compatibility can also help limit downstream costs such as fewer suppo
 
 Time and resources are finite. Especially in Open Source projects.
 
-Every feature merged or bug fixed is a vote against another that could have taken its place. The time to review, test, document, and support one change subracts time and resources from another somewhere else.
+Every feature merged or bug fixed is a vote against another that could have taken its place. The time to review, test, document, and support one change subtracts time and resources from another somewhere else.
 
 In some situations, a “no” can be given due to an unreasonably high opportunity cost. An example of this can be seen in the WordPress project leading up to the initial release of the new block editor in version [5.0 “Bebo.”](https://wordpress.org/news/2018/12/bebo/) It was important that as many contributors as possible were focused on the objective at hand. Many changes received a “no” answer in large part because of the amount of resources it drew away from the Gutenberg project.
 
